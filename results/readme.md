@@ -32,7 +32,7 @@ They are instead available for download from the linked external drive:
 
 | Folder | Description | External Link |
 |:--------|:-------------|:---------------|
-| **`Light_U_Net/`** | Contains the reconstructed prediction results of the *Light_U_Net* model, along with cell counts of  outputs for region-level error analysis. | [View on Google Drive](https://drive.google.com/...) |
+| **`Light_U_Net/`** | Contains the reconstructed prediction results of the *Light_U_Net* model, along with cell counts of  outputs for region-level error analysis. | [View on Google Drive](https://drive.google.com/drive/folders/19hTfl7-5WkmfUU_fa3dLsdkrGJ40v_eL?usp=sharing) |
 | **`U_Net/`** | Includes the corresponding prediction maps, and final cell counting results for the *U_Net* model. | [View on Google Drive](https://drive.google.com/...) |
 | **`XGB_UNetFuse/`** | Provides the fused predictions, comparative analyses, and final quantitative results for the proposed *XGB-UNetFuse* framework. | [View on Google Drive](https://drive.google.com/...) |
 
