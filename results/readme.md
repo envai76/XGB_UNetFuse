@@ -25,7 +25,20 @@ However, **all plots and numerical results are fully reproducible** using the pr
 - The resulting CSV file (e.g., **`average_signed_abs_over_under_errors.csv`**) includes detailed statistics for multiple parameter combinations.
 
 ---
+## 🔗 External Storage Notice
 
+Due to their large size, the following result folders are **not hosted directly in this repository**.  
+They are instead available for download from the linked external drive:
+
+| Folder | Description | External Link |
+|:--------|:-------------|:---------------|
+| **`Light_U_Net/`** | Contains the reconstructed prediction results of the *Light_U_Net* model, along with cell counts of  outputs for region-level error analysis. | [View on Google Drive](https://drive.google.com/...) |
+| **`U_Net/`** | Includes the corresponding prediction maps, and final cell counting results for the *U_Net* model. | [View on Google Drive](https://drive.google.com/...) |
+| **`XGB_UNetFuse/`** | Provides the fused predictions, comparative analyses, and final quantitative results for the proposed *XGB-UNetFuse* framework. | [View on Google Drive](https://drive.google.com/...) |
+
+> 📁 Each linked folder mirrors the same structure used in this repository and can be directly used with the provided notebooks to reproduce all plots and analyses presented in the paper.
+
+---
 ## Notes
 - Reported results in this folder correspond to the **best-performing configuration** described in the paper.  
 - All results, including those not explicitly shown here, are **fully reproducible** using the provided code and model checkpoints.
