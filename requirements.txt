@@ -1,0 +1,40 @@
+# ================================
+# Retinal Ganglion Cell Framework - GPU Environment
+# Compatible with: CUDA 11.8 + cuDNN 8.x
+# TensorFlow GPU build (2.6.0)
+# ================================
+
+# --- Core Deep Learning Libraries ---
+tensorflow-gpu==2.6.0
+keras==2.6.0
+torch>=2.0.0
+torchvision>=0.15.0
+xgboost>=2.0.0
+numpy>=1.19.5
+h5py>=3.1.0
+scipy>=1.7.1
+
+# --- Image Processing and Visualization ---
+opencv-python>=4.5.3.56
+scikit-image>=0.18.3
+matplotlib>=3.4.3
+pandas>=1.3.3
+seaborn>=0.11.2
+Pillow>=8.3.2
+tqdm>=4.62.3
+
+# --- Machine Learning and Feature Extraction ---
+scikit-learn>=0.24.2
+pywavelets>=1.1.1
+joblib>=1.0.1
+
+# --- Jupyter Environment ---
+jupyter>=1.0.0
+ipykernel>=6.4.1
+notebook>=6.4.3
+
+# --- GPU / System Compatibility (manual installation recommended) ---
+# Note: install CUDA 11.8 and cuDNN 8.x manually if not already on your system.
+# Verify GPU visibility with:
+# >>> import tensorflow as tf
+# >>> tf.config.list_physical_devices('GPU')
