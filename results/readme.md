@@ -33,8 +33,8 @@ They are instead available for download from the linked external drive:
 | Folder | Description | External Link |
 |:--------|:-------------|:---------------|
 | **`Light_U_Net/`** | Contains the reconstructed prediction results of the *Light_U_Net* model, along with cell counts of  outputs for region-level error analysis. | [View on Google Drive](https://drive.google.com/drive/folders/19hTfl7-5WkmfUU_fa3dLsdkrGJ40v_eL?usp=sharing) |
-| **`U_Net/`** | Includes the corresponding prediction maps, and final cell counting results for the *U_Net* model. | [View on Google Drive](https://drive.google.com/...) |
-| **`XGB_UNetFuse/`** | Provides the fused predictions, comparative analyses, and final quantitative results for the proposed *XGB-UNetFuse* framework. | [View on Google Drive](https://drive.google.com/...) |
+| **`U_Net/`** | Includes the corresponding prediction maps, and final cell counting results for the *U_Net* model. | [View on Google Drive](https://drive.google.com/drive/folders/10FLmisv27bZeDpEot1JSl2LzWiObbyi4?usp=drive_link) |
+| **`XGB_UNetFuse/`** | Provides the fused predictions, comparative analyses, and final quantitative results for the proposed *XGB-UNetFuse* framework. | [View on Google Drive](https://drive.google.com/drive/folders/1n0lYAqTn3DCT8joCUqiPONNRR0ThRT6G?usp=drive_link) |
 
 > 📁 Each linked folder mirrors the same structure used in this repository and can be directly used with the provided notebooks to reproduce all plots and analyses presented in the paper.
 
