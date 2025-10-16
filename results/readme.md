@@ -27,7 +27,7 @@ However, **all plots and numerical results are fully reproducible** using the pr
 ---
 ## 🔗 External Storage Notice
 
-Due to their large size, the following result folders are **not hosted directly in this repository**.  
+Due to their large size, the following result folders are **hosted partially in this repository**.  
 They are instead available for download from the linked external drive:
 
 | Folder | Description | External Link |
