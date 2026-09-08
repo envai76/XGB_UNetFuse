@@ -11,17 +11,6 @@ This framework provides a **deep-learning-based solution** for cell counting acr
 The modular design allows independent execution of each stage, from preprocessing to model evaluation.
 
 
-## 📄 Published Paper
-
-This repository contains the implementation of our published paper:
-
-**XGB-UNetFuse: A Density-Aware Hybrid Framework for Automated Retinal Ganglion Cell Quantification**
-
-Published in **Biomedical Signal Processing and Control**, 2026.
-
-**DOI:** [https://doi.org/10.1016/j.bspc.2026.111344](https://doi.org/10.1016/j.bspc.2026.111344)
-
-
 
 **Main functionalities:**
 - DIC-like preprocessing and image tiling
@@ -101,4 +90,17 @@ Each notebook can be executed independently, but running them in the above order
 **Balwantray C. Chauhan**  
 
 **Srinivas Sampalli**  
+
+
+
+## 📄 Published Paper
+
+This repository contains the implementation of our published paper:
+
+**XGB-UNetFuse: A Density-Aware Hybrid Framework for Automated Retinal Ganglion Cell Quantification**
+
+Published in **Biomedical Signal Processing and Control**, 2026.
+
+**DOI:** [https://doi.org/10.1016/j.bspc.2026.111344](https://doi.org/10.1016/j.bspc.2026.111344)
+
 
